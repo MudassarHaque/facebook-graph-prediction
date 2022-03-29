@@ -34,6 +34,6 @@ achieved test f1 score of 0.9302993203022755 refer ipynb for more details
 
 using simple feature like follows_back and num_u_followings_following_v from domain knowlege which are very powerful 
 
-removing correlated features reduces underfitting hence reducing complexity of the model
+removing correlated features reduces overfitting hence reducing complexity of the model
 
 DT performs well whereever feature interactions are needed
